@@ -1,1 +1,6 @@
 File test
+
+class Demo{
+
+	// Hello
+}
